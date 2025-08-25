@@ -84,6 +84,23 @@ GenerateClassCluster=0
 DocumentUniqueId=RDSHEOJD
 
 [Document3]
+DocumentPath=BATTERY.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=OHXQZBBH
+
+[Document4]
 DocumentPath=SDCARD.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -100,7 +117,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DZPOGQLX
 
-[Document4]
+[Document5]
 DocumentPath=RAM.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -117,7 +134,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HDKCCLEB
 
-[Document5]
+[Document6]
 DocumentPath=LCD.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -134,8 +151,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MDWSGZKS
 
-[Document6]
-DocumentPath=..\..\..\..\Downloads\Audio.SchDoc
+[Document7]
+DocumentPath=..\..\..\..\Downloads\AUDIO.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -151,7 +168,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OTEMJZID
 
-[Document7]
+[Document8]
 DocumentPath=PCB1.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -168,7 +185,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WNSJBUWA
 
-[Document8]
+[Document9]
 DocumentPath=Stm32_Doom.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
