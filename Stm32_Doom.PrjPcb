@@ -152,7 +152,7 @@ GenerateClassCluster=0
 DocumentUniqueId=MDWSGZKS
 
 [Document7]
-DocumentPath=..\..\..\..\Downloads\AUDIO.SchDoc
+DocumentPath=AUDIO.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
