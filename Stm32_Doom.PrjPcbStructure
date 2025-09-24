@@ -2,6 +2,6 @@ Record=TopLevelDocument|FileName=AUDIO.SchDoc|SheetNumber=7
 Record=NoMainPathDocument|SourceDocument=AUDIO.SchDoc|FileName=BATTERY.SchDoc|SheetNumber=3
 Record=NoMainPathDocument|SourceDocument=AUDIO.SchDoc|FileName=LCD.SchDoc|SheetNumber=6
 Record=NoMainPathDocument|SourceDocument=AUDIO.SchDoc|FileName=MCU.SchDoc|SheetNumber=2
-Record=NoMainPathDocument|SourceDocument=AUDIO.SchDoc|FileName=Pg1.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=AUDIO.SchDoc|FileName=POWER.SchDoc|SheetNumber=1
 Record=NoMainPathDocument|SourceDocument=AUDIO.SchDoc|FileName=RAM.SchDoc|SheetNumber=5
 Record=NoMainPathDocument|SourceDocument=AUDIO.SchDoc|FileName=SDCARD.SchDoc|SheetNumber=4
