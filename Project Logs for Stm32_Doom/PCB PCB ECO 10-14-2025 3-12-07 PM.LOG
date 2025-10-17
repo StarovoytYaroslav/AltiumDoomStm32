@@ -1,0 +1,12 @@
+Add component: Footprint Not Found FP-1241_1612_23-MFG
+Add Pin To Net: Unknown Pin: Pin SW3-1
+Add Pin To Net: Unknown Pin: Pin SW3-2
+Add Pin To Net: Unknown Pin: Pin SW3-2
+Add Pin To Net: Unknown Pin: Pin SW3-4
+Add Net: Net with name "NetC7_1" already exists
+Add Net: Net with name "NetC15_1" already exists
+Added Class: Name=LEDs
+Added Class: Name=SW_DEBUG
+Add Class Member: Failed to add class member : Component SW3 1241.1612.23
+Added Room: Name=LEDs
+Added Room: Name=SW_DEBUG
