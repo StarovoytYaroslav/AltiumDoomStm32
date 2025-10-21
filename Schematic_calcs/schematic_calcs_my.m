@@ -1,8 +1,8 @@
 clc; clearvars;
-L = 22 * 10^-6; %?
+L = 10 * 10^-6; %?
 Vout = 25.6;
 Vin = 3.3;
-Vf = 0.2;
+Vf = 0.38;
 Fs = 1.2 * 10^6;
 Ilim = 1.2;
 Ip = (L * Fs *((Vout + Vf - Vin)^-1 + (Vin)^-1))^-1;
