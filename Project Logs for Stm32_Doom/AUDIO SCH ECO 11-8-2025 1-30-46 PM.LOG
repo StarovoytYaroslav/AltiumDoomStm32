@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=C34 Old Footprint=FP-GRM155-0_2-IPC_B New Footprint=CAPC2013X135X45LL10T25
+Change Component Comment: Designator=C34 Old Comment=GRM155R61C225KE11D New Comment=GRM21BR60J225KA01K
+Change Pin Designator/Name:  Old Designator=C34-1 Old Name=1 New Designator =2 New Name=2
+Change Pin Designator/Name:  Old Designator=C34-2 Old Name=2 New Designator =1 New Name=1
